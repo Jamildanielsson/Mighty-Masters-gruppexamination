@@ -20,6 +20,14 @@ Den orange är Admistratörer
 
 Vi gör flera userStore till backlogen 
 
+Vi har planerat vilka databser ska kopplast till olika functioner
+
+Sorterat dem efter prioritet
+
+Kategoserat och planerat interface
+
+Vi börja lägga in checklista i visa task
+
 Vi har börjat meddela ut poäng till våra Story point
 
 Vi har börjat färglägga våra story point 
