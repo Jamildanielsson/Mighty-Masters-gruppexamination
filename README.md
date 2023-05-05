@@ -58,6 +58,8 @@ Vi forsätter med poängsättnig och utvärderar våra usterstory och ev delar u
 
 Vi lägger även till test kriterier med checkboxar.
 
+Vi har gjort en första runda med poängsättning. Nu går vi igenom epics och förädlar dom. 
+
 
 
 
