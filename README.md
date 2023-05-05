@@ -74,3 +74,5 @@ I vår planering har vi två veckors sprint, en vecka blir 160 h och vi har tota
 
 
 
+
+
