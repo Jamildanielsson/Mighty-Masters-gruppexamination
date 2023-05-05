@@ -32,11 +32,10 @@ Vi har börjat meddela ut poäng till våra Story point, så långt vi hinner id
 
 Vi har börjat färglägga våra story point. 
 
-Scrum story points: 0 är Orange färg.
-
 Scrum story points: 1 är Lila färg.
 
 Scrum story points: 2 är Blå färg.
+Scrum story points: 3 är Orange färg.
 
 Scrum story points: 13 är Röd färg och är Epic.
 
