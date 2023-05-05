@@ -38,9 +38,9 @@ Scrum story points: 2 är Blå färg.
 
 Scrum story points: 3 är Orange färg.
 
-Scrum story points: 5 är
+Scrum story points: 5 är Ljusröd färg.
 
-Scrum story points: 8 är
+Scrum story points: 8 är Ljusblå färg.
 
 Scrum story points: 13 är Röd färg och är Epic.
 
