@@ -74,7 +74,7 @@ En UX desinger - Adriana.
 
 I vår planering har vi två veckors sprint, en vecka blir 160 h och vi har totalt 320 h tillsammans på första sprinten med 40h arbetsvecka per person. 
 
-
+Vi delar upp de User Stories som är över 2 poäng i två olika: en för user storyn, en för testningen med diverse testkriterier.
 
 
 
