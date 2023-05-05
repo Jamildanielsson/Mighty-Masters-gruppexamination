@@ -62,19 +62,19 @@ Vi har gjort en första runda med poängsättning. Nu går vi igenom epics och f
 
 Börjar planera Sprint på två veckor. 
 
-I vår Sprint team så har vi 4 Personer. 
+I vår Sprint team så har vi 4 Personer. En backend, en frontend, en testare och en UX desinger. 
 
-En backend - Martina.
+I vår planering har vi två veckors sprint, en vecka blir 160 h och vi har totalt 320 h tillsammans på första sprinten med 40h arbetsvecka per person minus möten 12h.
 
-En frontend - Ellinor. 
+I vår första sprint har vi nu planerat totalt 292 h så vi räknar med att ha 28 h totalt över som kan diffa.
 
-En testare -  Jamil.
+Vi gör en sprintreview med sprintmål. 
 
-En UX desinger - Adriana.
+Vi gör en Done specifikation.
 
-I vår planering har vi två veckors sprint, en vecka blir 160 h och vi har totalt 320 h tillsammans på första sprinten med 40h arbetsvecka per person. 
 
-Vi delar upp de User Stories som är över 2 poäng i två olika: en för user storyn, en för testningen med diverse testkriterier.
+
+
 
 
 
