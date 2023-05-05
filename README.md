@@ -52,6 +52,8 @@ Vi ändrar och avvaktar med story points till nästa dag vi möts.
 
 Martina är sekreterare idag.
 
+När alla är på plats planerar vi dagen.
+
 Vi forsätter med poängsättnig och utvärderar våra usterstory och ev delar upp dom i fler. 
 
 Vi lägger även till test kriterier med checkboxar.
