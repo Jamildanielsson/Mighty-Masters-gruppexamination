@@ -107,7 +107,7 @@ Några av våra stories har formulerats om genom arbetsgången för att bli tydl
 
 Vi räknar även story points i sprint-backlog för att se att vi ligger rätt till och lägger till/tar bort för att fylla tiden på sprinten (2 veckor)
 
-hejeh
+
 
 
 
