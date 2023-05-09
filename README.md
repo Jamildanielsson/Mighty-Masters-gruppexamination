@@ -1,12 +1,12 @@
 # Mighty-Masters-gruppexamination
 
-4/5-2023
+- TORSDAG 4 MAJ - 2023
 
-Vi har skapat Trello, Github repo och Discord.
+Vi har skapat Trello tavla, Github repo och Discord server för projektet.
 
 Trello : https://trello.com/invite/b/e1uABGUM/ATTIb4101f0792aabc94ab66a495e0ed08ce16FBE4B9/mighty-masters
 
-Vi har bestämt oss att gruppen använder Trello & Github som verktyg.
+Vi har bestämt oss för att grupparbetet använder Trello & Github som verktyg.
 
 Idag 4/5 är Adriana sekreterare. 
 
@@ -48,7 +48,7 @@ Scrum story points: 1, 2, 3, 5, 8, 13.
 
 Vi ändrar och avvaktar med story points till nästa dag vi möts.
 
-5/5- 2023
+- FREDAG 5 MAJ - 2023
 
 Martina är sekreterare idag.
 
@@ -73,10 +73,17 @@ Vi gör en sprintreview med sprintmål.
 Vi gör en Done specifikation.
 
 
+- TISDAG 9 MAJ - 2023
 
+Sekreterare: Jamil
 
+Kort genomgång med lärare av olika frågor gällande arbetet hittills.
 
+Vi fortsätter med omstrukturering av sprintbackloggen då vi fått tänka om lite efter några svar på frågor, detta innebär att 
+sprintb. blir färre till antalet men istället får story i sprintb. olika checklistor för varje roll i teamet.
 
+Vi har även bestämt att teamet kommer att bestå av 1 UI/UX designer, 2 Frontend, 1 Backend och 1 testare.
+Alla roller får en egen checklista med vad den eller de personer behöver göra i den storyn.
 
 
 
