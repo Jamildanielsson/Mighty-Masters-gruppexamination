@@ -13,11 +13,8 @@ Idag 4/5 är Adriana sekreterare.
 Vi börjar med att skriva UserStorys, vi tar i tur ordning medsols och gör några var.
 
 Vi färgmarkerar i backloggen.
-
 Den gröna är Boklånare 
-
 Den gula är Bibloteket
-
 Den orange är Admistratörer
 
 Vi gör flera userStorys till backlogen, utvärdera och ändrar.
@@ -72,6 +69,10 @@ Vi gör en sprintreview med sprintmål.
 
 Vi gör en Done specifikation.
 
+- MÅNDAG 8 MAJ - 2023
+
+Paus för reflektion över projektet, var och en fick i uppgift att fundera över olika user stories för att jämföra och se om vi kunde komma fram till något mer som var avgörande för systemets utveckling. Alla skulle tänka över detaljer och ta med dessa på handledningstiden under tisdag.
+
 
 - TISDAG 9 MAJ - 2023
 
@@ -79,11 +80,37 @@ Sekreterare: Jamil
 
 Kort genomgång med lärare av olika frågor gällande arbetet hittills.
 
-Vi fortsätter med omstrukturering av sprintbackloggen då vi fått tänka om lite efter några svar på frågor, detta innebär att 
-sprintb. blir färre till antalet men istället får story i sprintb. olika checklistor för varje roll i teamet.
+Vi fortsätter med omstrukturering av sprintbackloggen då vi fått tänka om lite efter några svar på frågor, vi lägger in checklista för testkriterier på varje user story.
 
 Vi har även bestämt att teamet kommer att bestå av 1 UI/UX designer, 2 Frontend, 1 Backend och 1 testare.
-Alla roller får en egen checklista med vad den eller de personer behöver göra i den storyn.
+Nya strukturen på teamet blir följande: 
+
+Martina - Backendutvecklare
+Adriana - Frontendutvecklare
+Ellinor - Frontendutvecklare
+Jamil - UI/UX Designer
+'Test' - Testare
+
+Vi fortsätter med att skapa tydligare testkriterier i sprintbackloggen för respektive story som behöver det.
+
+Kort sammanställning om vart vi ligger i projektet och strukturerar upp hur vi går vidare
+
+Några frågor som dyker upp är:
+
+Är våra user stories tillräckligt detaljerade?
+Är strukturen på vårt projekt godkänd?
+Hur skall sammanfattningen av sprintmålen struktureras upp?
+Hur lång behöver "definitionen av klar" vara?
+
+Vi jobbar vidare med att göra våra produkt-backlog stories mer detaljerade i innehållet och testkriterier för att de skall vara redo för nästa sprint.
+Några av våra stories har formulerats om genom arbetsgången för att bli tydligare, dessa ändrar vi nu tillbaka till user stories för att allt skall vara enhetligt och lätt att läsa.
+
+Vi räknar även story points i sprint-backlog för att se att vi ligger rätt till och lägger till/tar bort för att fylla tiden på sprinten (2 veckor)
+
+
+
+
+
 
 
 
