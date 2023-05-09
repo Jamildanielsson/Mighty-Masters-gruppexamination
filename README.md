@@ -1,6 +1,6 @@
 # Mighty-Masters-gruppexamination
 
-- TORSDAG 4 MAJ - 2023
+**- TORSDAG 4 MAJ - 2023**
 
 Vi har skapat Trello tavla, Github repo och Discord server för projektet.
 
@@ -45,7 +45,7 @@ Scrum story points: 1, 2, 3, 5, 8, 13.
 
 Vi ändrar och avvaktar med story points till nästa dag vi möts.
 
-- FREDAG 5 MAJ - 2023
+**- FREDAG 5 MAJ - 2023**
 
 Martina är sekreterare idag.
 
@@ -69,12 +69,12 @@ Vi gör en sprintreview med sprintmål.
 
 Vi gör en Done specifikation.
 
-- MÅNDAG 8 MAJ - 2023
+**- MÅNDAG 8 MAJ - 2023**
 
 Paus för reflektion över projektet, var och en fick i uppgift att fundera över olika user stories för att jämföra och se om vi kunde komma fram till något mer som var avgörande för systemets utveckling. Alla skulle tänka över detaljer och ta med dessa på handledningstiden under tisdag.
 
 
-- TISDAG 9 MAJ - 2023
+**- TISDAG 9 MAJ - 2023**
 
 Sekreterare: Jamil
 
