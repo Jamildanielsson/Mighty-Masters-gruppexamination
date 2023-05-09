@@ -1,3 +1,4 @@
+
 # Mighty-Masters-gruppexamination
 
 **- TORSDAG 4 MAJ - 2023**
@@ -107,6 +108,16 @@ Några av våra stories har formulerats om genom arbetsgången för att bli tydl
 
 Vi räknar även story points i sprint-backlog för att se att vi ligger rätt till och lägger till/tar bort för att fylla tiden på sprinten (2 veckor)
 
+**- LUNCH -**
+
+Vi granskar User stories i både Produkt backlog och Sprint backlog för att se så att allt väsentligt innehåll finns med, att det är tydligt och lättläst.
+Separerar funktionalitet och interface
+
+**- RAST 10 min -**
+
+Efter rasten har vi fortsatt att jobba med att implementera våran checklista till en levande beskrivning för vårat sprintmål.
+
+Vi har även formulerat om och fyllt på med mer teknisk information om hur vår definition av klar ser ut och publicerat den.
 
 
 
