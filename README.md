@@ -109,11 +109,7 @@ Några av våra stories formuleras om för att bli tydligare; dessa ändrar vi n
 
 Vi räknar även kontinuerligt våra storypoints i sprint-backloggen för att se till att vi inte har för få eller för många. Vi lägger successivt till eller tar bort för att fylla tiden på sprinten (2 veckor).
 
-**- LUNCH -**
-
 Därefter granskar vi våra UserStories ytterligare en gång, både i Produkt-backloggen och Sprint-backloggen, för att se till att allt väsentligt finns med, samt att det är tydligt och lättläst. Här separerar vi även funktionalitet och interface för att få ännu tydligare och kortare UserStories. För att göra detta riktigt tydligt markerar vi dessa med etiketter i Trello.
-
-**- RAST 10 min -**
 
 Efter rasten fortsätter vi med att implementera vår checklista i sprintmålet till en enhetlig beskrivning istället.
 
