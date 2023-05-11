@@ -1,90 +1,90 @@
 
 # Mighty-Masters-gruppexamination
 
+Vi har turats om att föra anteckningar varje dag. Innan inlämning har Ellinor redigerat dessa anteckningar till en mer sammanhängande text.
+
 **- TORSDAG 4 MAJ - 2023**
 
-Vi har skapat Trello tavla, Github repo och Discord server för projektet.
+Idag är Adriana sekreterare. 
 
-Trello : https://trello.com/invite/b/e1uABGUM/ATTIb4101f0792aabc94ab66a495e0ed08ce16FBE4B9/mighty-masters
+Vi har beslutat oss för att använda Trello & Github som verktyg till grupparbetet. 
 
-Vi har bestämt oss för att grupparbetet använder Trello & Github som verktyg.
+Vi har skapat ett Trelloprojekt, ett Github-repo och en Discord-server.
 
-Idag 4/5 är Adriana sekreterare. 
+Trello: https://trello.com/invite/b/e1uABGUM/ATTIb4101f0792aabc94ab66a495e0ed08ce16FBE4B9/mighty-masters
 
-Vi börjar med att skriva UserStorys, vi tar i tur ordning medsols och gör några var.
+Vi börjar med att skriva några UserStories & Epics var, baserade på uppgiftens kravspecifikation. Dessa hamnar i backloggen.
 
-Vi färgmarkerar i backloggen.
-Den gröna är Boklånare 
-Den gula är Bibloteket
-Den orange är Admistratörer
+Därefter färgkodar vi dem.
 
-Vi gör flera userStorys till backlogen, utvärdera och ändrar.
+Backloggens färgkoder:
+Den gröna är Boklånare/kunder.
+Den gula är Bibloteket.
+Den orange är Admistratörer.
 
-Vi har planerat vilka databaser ska kopplast till olika functioner och sorterat dem efter prioritet.
+Därefter redigerar, uppdaterar och ändrar vi varandras UserStories, samt lägger till fler och förädlar de som är för stora.
 
-Vi har kategoserat och planerat interface.
+Vi kommer fram till diverse databaser vi kommer behöva, och lägger in dessa i Tasks. Dessa kopplas sedan med etiketter till sina relevanta UserStories, och sorteras efter prioritet.
 
-Vi börjar lägga in checklista i Task.
+Vi kategoriserar och planerar även systemets interface. Även dessa markeras med etiketter.
 
-Vi har börjat meddela ut poäng till våra Story point, så långt vi hinner idag.
+Vi börjar lägga in checklistor i våra Tasks och vissa UserStorys.
 
-Vi har börjat färglägga våra story point. 
+Vi delar även ut storypoints på vissa UserStorys, dvs. de vi hinner med innan vi slutar för dagen. Även dessa färgkodas:
 
-Scrum story points: 1 är Lila färg.
+Scrum storypoints: 1 är Lila färg.
+Scrum storypoints: 2 är Blå färg.
+Scrum storypoints: 3 är Orange färg.
+Scrum storypoints: 5 är Ljusröd färg.
+Scrum storypoints: 8 är Ljusblå färg.
+Scrum storypoints: 13 är Röd färg och är Epic.
+Scrum storypoints: 1, 2, 3, 5, 8, 13.
 
-Scrum story points: 2 är Blå färg.
-
-Scrum story points: 3 är Orange färg.
-
-Scrum story points: 5 är Ljusröd färg.
-
-Scrum story points: 8 är Ljusblå färg.
-
-Scrum story points: 13 är Röd färg och är Epic.
-
-Scrum story points: 1, 2, 3, 5, 8, 13.
-
-Vi ändrar och avvaktar med story points till nästa dag vi möts.
+Vi ändrar och diskuterar kring dessa, och avvaktar med fler storypoints till nästa dag vi möts. Färgkoderna försvinner sedan när vi inser att Trello har en inbyggd funktion för Storypoints.
 
 **- FREDAG 5 MAJ - 2023**
 
-Martina är sekreterare idag.
+Idag är Martina sekreterare.
 
-När alla är på plats planerar vi dagen.
+När alla är på plats planerar vi dagen. Därefter fortsätter vi med poängsättnig och utvärderar våra UserStories. Vissa delar vi upp i flera mindre. 
 
-Vi forsätter med poängsättnig och utvärderar våra usterstory och ev delar upp dom i fler. 
+Vi lägger även till testkriterier med checkboxar.
 
-Vi lägger även till test kriterier med checkboxar.
+Vi gör en första runda med poängsättning, dvs. vi går igenom hela Product-backloggen, story för story, och diskuterar poängen vi satt. Därefter går vi igenom Epics och förädlar dom. 
 
-Vi har gjort en första runda med poängsättning. Nu går vi igenom epics och förädlar dom. 
+När vi är överens om att Product-backloggen är tillräckligt utarbetad börjar vi planera vår Sprint för två veckor.
 
-Börjar planera Sprint på två veckor. 
+I vårt Sprint-team kommer vi överens om att vi har 4 Personer: En backend, en frontend, en testare och en UX desinger. 
 
-I vår Sprint team så har vi 4 Personer. En backend, en frontend, en testare och en UX desinger. 
+Vi räknar ihop arbetsfördelningen: 
 
-I vår planering har vi två veckors sprint, en vecka blir 160 h och vi har totalt 320 h tillsammans på första sprinten med 40h arbetsvecka per person minus möten 12h.
+En arbetsvecka blir 160 h sammanlagt. Med 40 timmars arbetsvecka per person, har vi sammanlagt 320 timmar på första sprinten. Vi räknar med att en del av den här tiden, ca 12 timmar, går till möten av olika slag.
 
-I vår första sprint har vi nu planerat totalt 292 h så vi räknar med att ha 28 h totalt över som kan diffa.
+I vår första sprint har vi nu planerat totalt 292 timmar. Vi räknar ut att vi har 28 timmar över för marginal.
 
-Vi gör en sprintreview med sprintmål. 
-
-Vi gör en Done specifikation.
+När vi gjort vår sprint, gör vi en sprintreview med sprintmål och en Done-specifikation.
 
 **- MÅNDAG 8 MAJ - 2023**
 
-Paus för reflektion över projektet, var och en fick i uppgift att fundera över olika user stories för att jämföra och se om vi kunde komma fram till något mer som var avgörande för systemets utveckling. Alla skulle tänka över detaljer och ta med dessa på handledningstiden under tisdag.
+Paus för reflektion över projektet. 
 
+Var och en fick i uppgift att fundera över olika UserStories för att jämföra och se om vi kunde komma fram till något mer som var avgörande för systemets utveckling. Alla skulle tänka över detaljer, fundera ut frågor och ta med dessa på handledningstiden under tisdagen. 
+
+Den här dagen var även avsedd att använda för var och en att börja jobba med sin personliga reflektion.
 
 **- TISDAG 9 MAJ - 2023**
 
-Sekreterare: Jamil
+Idag är Jamil sekreterare.
 
-Kort genomgång med lärare av olika frågor gällande arbetet hittills.
+Kort genomgång med lärare där vi ställer olika frågor som hittills uppstått kring arbetet.
 
-Vi fortsätter med omstrukturering av sprintbackloggen då vi fått tänka om lite efter några svar på frågor, vi lägger in checklista för testkriterier på varje user story.
+Efter detta fortsätter vi med omstrukturering av vår sprintbacklogg, eftersom svaren vi fått på vissa frågor fått oss att tänka om. 
 
-Vi har även bestämt att teamet kommer att bestå av 1 UI/UX designer, 2 Frontend, 1 Backend och 1 testare.
-Nya strukturen på teamet blir följande: 
+Vi lägger in en checklista för testkriterier på varje UserStory.
+
+Vi bestämmer oss även för att teamet kommer bestå av 1 UI/UX-designer, 2 frontendutvecklare, 1 backendutvecklare och 1 testare. (dvs 5 personer istället för 4)
+
+Den nya strukturen på teamet blir följande: 
 
 Martina - Backendutvecklare
 Adriana - Frontendutvecklare
@@ -94,40 +94,30 @@ Jamil - UI/UX Designer
 
 Vi fortsätter med att skapa tydligare testkriterier i sprintbackloggen för respektive story som behöver det.
 
-Kort sammanställning om vart vi ligger i projektet och strukturerar upp hur vi går vidare
+Vi gör en kort sammanställning om hur vi ligger till i projektet, och strukturerar sedan upp hur vi går vidare.
 
 Några frågor som dyker upp är:
 
 Är våra user stories tillräckligt detaljerade?
-Är strukturen på vårt projekt godkänd?
+Är strukturen på vårt projekt tillräckligt bra för godkänd?
 Hur skall sammanfattningen av sprintmålen struktureras upp?
 Hur lång behöver "definitionen av klar" vara?
 
-Vi jobbar vidare med att göra våra produkt-backlog stories mer detaljerade i innehållet och testkriterier för att de skall vara redo för nästa sprint.
-Några av våra stories har formulerats om genom arbetsgången för att bli tydligare, dessa ändrar vi nu tillbaka till user stories för att allt skall vara enhetligt och lätt att läsa.
+Vi jobbar vidare med att göra våra UserStories i Product-Backloggen mer detaljerade, och lägger till testkriterier för att de skall vara redo för nästa sprint.
 
-Vi räknar även story points i sprint-backlog för att se att vi ligger rätt till och lägger till/tar bort för att fylla tiden på sprinten (2 veckor)
+Några av våra stories formuleras om för att bli tydligare; dessa ändrar vi nu tillbaka till specifika UserStories-meningsuppbyggnader för att allt skall vara enhetligt och lättläst.
+
+Vi räknar även kontinuerligt våra storypoints i sprint-backloggen för att se till att vi inte har för få eller för många. Vi lägger successivt till eller tar bort för att fylla tiden på sprinten (2 veckor).
 
 **- LUNCH -**
 
-Vi granskar User stories i både Produkt backlog och Sprint backlog för att se så att allt väsentligt innehåll finns med, att det är tydligt och lättläst.
-Separerar funktionalitet och interface
+Därefter granskar vi våra UserStories ytterligare en gång, både i Produkt-backloggen och Sprint-backloggen, för att se till att allt väsentligt finns med, samt att det är tydligt och lättläst. Här separerar vi även funktionalitet och interface för att få ännu tydligare och kortare UserStories. För att göra detta riktigt tydligt markerar vi dessa med etiketter i Trello.
 
 **- RAST 10 min -**
 
-Efter rasten har vi fortsatt att jobba med att implementera våran checklista till en levande beskrivning för vårat sprintmål.
+Efter rasten fortsätter vi med att implementera vår checklista i sprintmålet till en enhetlig beskrivning istället.
 
-Vi har även formulerat om och fyllt på med mer teknisk information om hur vår definition av klar ser ut och publicerat den.
+Vi formulerar även om och fyller på med mer teknisk information i vår definition av klar. Därefter lägger vi upp detta på Trello.
 
-
-
-
-
-
-
-
-
-
-
-
+I slutet av dagen är vi överens om att planeringen är mer eller mindre komplett, och att vi under de kommande dagarna ska fortsätta läsa igenom våra UserStorys på egen hand (kontrollera att färgkoderna stämmer, att formuleringarna är logiska, etc.). Sedan beslutar vi oss för att återkomma och skicka in projektet på torsdag eller fredag.
 
